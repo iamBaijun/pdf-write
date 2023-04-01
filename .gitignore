@@ -1,0 +1,8 @@
+.idea
+.gitignore.swp
+*.iml
+/target/
+!/*/target/
+*.class
+*.pdf
+/out
